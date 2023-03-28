@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.circle-bg {
+  @apply flex w-14 h-14 justify-center mx-auto items-center rounded-full;
+}
